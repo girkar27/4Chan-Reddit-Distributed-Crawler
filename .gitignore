@@ -1,0 +1,8 @@
+__pycache__
+commands
+.venv/
+env/
+logs/*
+.config
+*plot*
+queries.txt
